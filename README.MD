@@ -6,7 +6,7 @@
 
 ```bash
 # 스크립트 다운로드
-wget https://raw.githubusercontent.com/your-username/your-repo/main/setup_ssh.sh
+wget https://raw.githubusercontent.com/KORThomasJeong/ubuntukey/main/setup_ssh.sh
 
 # 실행 권한 부여
 chmod +x setup_ssh.sh
